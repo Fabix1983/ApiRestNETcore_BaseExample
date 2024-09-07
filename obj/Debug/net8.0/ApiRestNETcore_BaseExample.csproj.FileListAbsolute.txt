@@ -1,0 +1,65 @@
+C:\Users\PC\Desktop\Progetti Locale\ApiRestNETcore_BaseExample\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\PC\Desktop\Progetti Locale\ApiRestNETcore_BaseExample\bin\Debug\net8.0\appsettings.json
+C:\Users\PC\Desktop\Progetti Locale\ApiRestNETcore_BaseExample\bin\Debug\net8.0\ApiRestNETcore_BaseExample.exe
+C:\Users\PC\Desktop\Progetti Locale\ApiRestNETcore_BaseExample\bin\Debug\net8.0\ApiRestNETcore_BaseExample.deps.json
+C:\Users\PC\Desktop\Progetti Locale\ApiRestNETcore_BaseExample\bin\Debug\net8.0\ApiRestNETcore_BaseExample.runtimeconfig.json
+C:\Users\PC\Desktop\Progetti Locale\ApiRestNETcore_BaseExample\bin\Debug\net8.0\ApiRestNETcore_BaseExample.dll
+C:\Users\PC\Desktop\Progetti Locale\ApiRestNETcore_BaseExample\bin\Debug\net8.0\ApiRestNETcore_BaseExample.pdb
+C:\Users\PC\Desktop\Progetti Locale\ApiRestNETcore_BaseExample\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\PC\Desktop\Progetti Locale\ApiRestNETcore_BaseExample\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\PC\Desktop\Progetti Locale\ApiRestNETcore_BaseExample\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\PC\Desktop\Progetti Locale\ApiRestNETcore_BaseExample\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\PC\Desktop\Progetti Locale\ApiRestNETcore_BaseExample\obj\Debug\net8.0\ApiRestNETcore_BaseExample.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Progetti Locale\ApiRestNETcore_BaseExample\obj\Debug\net8.0\ApiRestNETcore_BaseExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Progetti Locale\ApiRestNETcore_BaseExample\obj\Debug\net8.0\ApiRestNETcore_BaseExample.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Progetti Locale\ApiRestNETcore_BaseExample\obj\Debug\net8.0\ApiRestNETcore_BaseExample.AssemblyInfo.cs
+C:\Users\PC\Desktop\Progetti Locale\ApiRestNETcore_BaseExample\obj\Debug\net8.0\ApiRestNETcore_BaseExample.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Progetti Locale\ApiRestNETcore_BaseExample\obj\Debug\net8.0\ApiRestNETcore_BaseExample.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\PC\Desktop\Progetti Locale\ApiRestNETcore_BaseExample\obj\Debug\net8.0\ApiRestNETcore_BaseExample.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PC\Desktop\Progetti Locale\ApiRestNETcore_BaseExample\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\PC\Desktop\Progetti Locale\ApiRestNETcore_BaseExample\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\PC\Desktop\Progetti Locale\ApiRestNETcore_BaseExample\obj\Debug\net8.0\staticwebassets\msbuild.ApiRestNETcore_BaseExample.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\PC\Desktop\Progetti Locale\ApiRestNETcore_BaseExample\obj\Debug\net8.0\staticwebassets\msbuild.build.ApiRestNETcore_BaseExample.props
+C:\Users\PC\Desktop\Progetti Locale\ApiRestNETcore_BaseExample\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ApiRestNETcore_BaseExample.props
+C:\Users\PC\Desktop\Progetti Locale\ApiRestNETcore_BaseExample\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ApiRestNETcore_BaseExample.props
+C:\Users\PC\Desktop\Progetti Locale\ApiRestNETcore_BaseExample\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\PC\Desktop\Progetti Locale\ApiRestNETcore_BaseExample\obj\Debug\net8.0\scopedcss\bundle\ApiRestNETcore_BaseExample.styles.css
+C:\Users\PC\Desktop\Progetti Locale\ApiRestNETcore_BaseExample\obj\Debug\net8.0\ApiRestNETcore_BaseExample.csproj.CopyComplete
+C:\Users\PC\Desktop\Progetti Locale\ApiRestNETcore_BaseExample\obj\Debug\net8.0\ApiRestNETcore_BaseExample.dll
+C:\Users\PC\Desktop\Progetti Locale\ApiRestNETcore_BaseExample\obj\Debug\net8.0\refint\ApiRestNETcore_BaseExample.dll
+C:\Users\PC\Desktop\Progetti Locale\ApiRestNETcore_BaseExample\obj\Debug\net8.0\ApiRestNETcore_BaseExample.pdb
+C:\Users\PC\Desktop\Progetti Locale\ApiRestNETcore_BaseExample\obj\Debug\net8.0\ApiRestNETcore_BaseExample.genruntimeconfig.cache
+C:\Users\PC\Desktop\Progetti Locale\ApiRestNETcore_BaseExample\obj\Debug\net8.0\ref\ApiRestNETcore_BaseExample.dll
+C:\Users\PC\Desktop\GitHub\ApiRestNETcore_BaseExample\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\PC\Desktop\GitHub\ApiRestNETcore_BaseExample\bin\Debug\net8.0\appsettings.json
+C:\Users\PC\Desktop\GitHub\ApiRestNETcore_BaseExample\bin\Debug\net8.0\ApiRestNETcore_BaseExample.exe
+C:\Users\PC\Desktop\GitHub\ApiRestNETcore_BaseExample\bin\Debug\net8.0\ApiRestNETcore_BaseExample.deps.json
+C:\Users\PC\Desktop\GitHub\ApiRestNETcore_BaseExample\bin\Debug\net8.0\ApiRestNETcore_BaseExample.runtimeconfig.json
+C:\Users\PC\Desktop\GitHub\ApiRestNETcore_BaseExample\bin\Debug\net8.0\ApiRestNETcore_BaseExample.dll
+C:\Users\PC\Desktop\GitHub\ApiRestNETcore_BaseExample\bin\Debug\net8.0\ApiRestNETcore_BaseExample.pdb
+C:\Users\PC\Desktop\GitHub\ApiRestNETcore_BaseExample\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\PC\Desktop\GitHub\ApiRestNETcore_BaseExample\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\PC\Desktop\GitHub\ApiRestNETcore_BaseExample\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\PC\Desktop\GitHub\ApiRestNETcore_BaseExample\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\PC\Desktop\GitHub\ApiRestNETcore_BaseExample\obj\Debug\net8.0\ApiRestNETcore_BaseExample.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\GitHub\ApiRestNETcore_BaseExample\obj\Debug\net8.0\ApiRestNETcore_BaseExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\GitHub\ApiRestNETcore_BaseExample\obj\Debug\net8.0\ApiRestNETcore_BaseExample.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\GitHub\ApiRestNETcore_BaseExample\obj\Debug\net8.0\ApiRestNETcore_BaseExample.AssemblyInfo.cs
+C:\Users\PC\Desktop\GitHub\ApiRestNETcore_BaseExample\obj\Debug\net8.0\ApiRestNETcore_BaseExample.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\GitHub\ApiRestNETcore_BaseExample\obj\Debug\net8.0\ApiRestNETcore_BaseExample.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\PC\Desktop\GitHub\ApiRestNETcore_BaseExample\obj\Debug\net8.0\ApiRestNETcore_BaseExample.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PC\Desktop\GitHub\ApiRestNETcore_BaseExample\obj\Debug\net8.0\ApiRestNETcore_BaseExample.sourcelink.json
+C:\Users\PC\Desktop\GitHub\ApiRestNETcore_BaseExample\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\PC\Desktop\GitHub\ApiRestNETcore_BaseExample\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\PC\Desktop\GitHub\ApiRestNETcore_BaseExample\obj\Debug\net8.0\staticwebassets\msbuild.ApiRestNETcore_BaseExample.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\PC\Desktop\GitHub\ApiRestNETcore_BaseExample\obj\Debug\net8.0\staticwebassets\msbuild.build.ApiRestNETcore_BaseExample.props
+C:\Users\PC\Desktop\GitHub\ApiRestNETcore_BaseExample\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ApiRestNETcore_BaseExample.props
+C:\Users\PC\Desktop\GitHub\ApiRestNETcore_BaseExample\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ApiRestNETcore_BaseExample.props
+C:\Users\PC\Desktop\GitHub\ApiRestNETcore_BaseExample\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\PC\Desktop\GitHub\ApiRestNETcore_BaseExample\obj\Debug\net8.0\scopedcss\bundle\ApiRestNETcore_BaseExample.styles.css
+C:\Users\PC\Desktop\GitHub\ApiRestNETcore_BaseExample\obj\Debug\net8.0\ApiRestNETcore_BaseExample.csproj.CopyComplete
+C:\Users\PC\Desktop\GitHub\ApiRestNETcore_BaseExample\obj\Debug\net8.0\ApiRestNETcore_BaseExample.dll
+C:\Users\PC\Desktop\GitHub\ApiRestNETcore_BaseExample\obj\Debug\net8.0\refint\ApiRestNETcore_BaseExample.dll
+C:\Users\PC\Desktop\GitHub\ApiRestNETcore_BaseExample\obj\Debug\net8.0\ApiRestNETcore_BaseExample.pdb
+C:\Users\PC\Desktop\GitHub\ApiRestNETcore_BaseExample\obj\Debug\net8.0\ApiRestNETcore_BaseExample.genruntimeconfig.cache
+C:\Users\PC\Desktop\GitHub\ApiRestNETcore_BaseExample\obj\Debug\net8.0\ref\ApiRestNETcore_BaseExample.dll

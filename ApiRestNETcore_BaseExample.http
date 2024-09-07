@@ -1,0 +1,6 @@
+@ApiRestNETcore_BaseExample_HostAddress = http://localhost:5175
+
+GET {{ApiRestNETcore_BaseExample_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
