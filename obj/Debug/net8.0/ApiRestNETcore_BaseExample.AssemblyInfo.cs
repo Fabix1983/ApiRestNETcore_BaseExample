@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ApiRestNETcore_BaseExample")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a94bf71d076afe786a5a72762043d410b949d66c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+49caa80441b543e0ec5caadd606b2670e0603f0b")]
 [assembly: System.Reflection.AssemblyProductAttribute("ApiRestNETcore_BaseExample")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ApiRestNETcore_BaseExample")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
